@@ -1,0 +1,8 @@
+// const add = require('./01.CreateModule')
+const {add,sub,mod,mul,div,cal} = require('./01.CreateModule')
+console.log(cal)
+console.log(add(4,5))
+console.log(sub(14,5))
+console.log(mod(4,12))
+console.log(mul(4,5))
+console.log(div(32,4))

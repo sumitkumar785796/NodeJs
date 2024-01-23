@@ -1,0 +1,2 @@
+what is fs module
+In Node.js, the fs module provides file system-related functionality, and it supports both synchronous and asynchronous methods
